@@ -1,0 +1,12 @@
+F:\Visual\RegistroProducto\RegistroProducto\bin\Debug\RegistroProducto.exe.config
+C:\Users\Julio Sánchez\Documents\Visual Studio 2015\Projects\RegistroProducto\RegistroProducto\bin\Debug\RegistroProducto.exe.config
+C:\Users\Julio Sánchez\Documents\Visual Studio 2015\Projects\RegistroProducto\RegistroProducto\obj\Debug\RegistroProducto.vbprojResolveAssemblyReference.cache
+C:\Users\Julio Sánchez\Documents\Visual Studio 2015\Projects\RegistroProducto\RegistroProducto\obj\Debug\RegistroProducto.frmRegistroProducto.resources
+C:\Users\Julio Sánchez\Documents\Visual Studio 2015\Projects\RegistroProducto\RegistroProducto\obj\Debug\RegistroProducto.Resources.resources
+C:\Users\Julio Sánchez\Documents\Visual Studio 2015\Projects\RegistroProducto\RegistroProducto\obj\Debug\RegistroProducto.vbproj.GenerateResource.Cache
+C:\Users\Julio Sánchez\Documents\Visual Studio 2015\Projects\RegistroProducto\RegistroProducto\obj\Debug\RegistroProducto.xml
+C:\Users\Julio Sánchez\Documents\Visual Studio 2015\Projects\RegistroProducto\RegistroProducto\bin\Debug\RegistroProducto.exe
+C:\Users\Julio Sánchez\Documents\Visual Studio 2015\Projects\RegistroProducto\RegistroProducto\bin\Debug\RegistroProducto.pdb
+C:\Users\Julio Sánchez\Documents\Visual Studio 2015\Projects\RegistroProducto\RegistroProducto\bin\Debug\RegistroProducto.xml
+C:\Users\Julio Sánchez\Documents\Visual Studio 2015\Projects\RegistroProducto\RegistroProducto\obj\Debug\RegistroProducto.exe
+C:\Users\Julio Sánchez\Documents\Visual Studio 2015\Projects\RegistroProducto\RegistroProducto\obj\Debug\RegistroProducto.pdb
