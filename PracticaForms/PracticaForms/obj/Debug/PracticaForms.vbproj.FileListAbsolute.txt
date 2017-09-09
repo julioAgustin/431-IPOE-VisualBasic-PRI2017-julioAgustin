@@ -1,0 +1,11 @@
+D:\Visual\Projects\PracticaForms\PracticaForms\bin\Debug\PracticaForms.exe.config
+D:\Visual\Projects\PracticaForms\PracticaForms\obj\Debug\PracticaForms.vbprojResolveAssemblyReference.cache
+D:\Visual\Projects\PracticaForms\PracticaForms\obj\Debug\PracticaForms.frmCargaUsuario.resources
+D:\Visual\Projects\PracticaForms\PracticaForms\obj\Debug\PracticaForms.Resources.resources
+D:\Visual\Projects\PracticaForms\PracticaForms\obj\Debug\PracticaForms.vbproj.GenerateResource.Cache
+D:\Visual\Projects\PracticaForms\PracticaForms\obj\Debug\PracticaForms.xml
+D:\Visual\Projects\PracticaForms\PracticaForms\bin\Debug\PracticaForms.exe
+D:\Visual\Projects\PracticaForms\PracticaForms\bin\Debug\PracticaForms.pdb
+D:\Visual\Projects\PracticaForms\PracticaForms\bin\Debug\PracticaForms.xml
+D:\Visual\Projects\PracticaForms\PracticaForms\obj\Debug\PracticaForms.exe
+D:\Visual\Projects\PracticaForms\PracticaForms\obj\Debug\PracticaForms.pdb
