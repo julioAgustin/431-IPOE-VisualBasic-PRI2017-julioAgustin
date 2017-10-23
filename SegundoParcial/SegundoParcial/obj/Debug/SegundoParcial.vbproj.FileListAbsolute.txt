@@ -1,0 +1,24 @@
+D:\Examen_visual_2do_parcial\Examen\SegundoParcial\SegundoParcial\bin\Debug\SegundoParcial.exe.config
+D:\Examen_visual_2do_parcial\Examen\SegundoParcial\SegundoParcial\bin\Debug\SegundoParcial.exe
+D:\Examen_visual_2do_parcial\Examen\SegundoParcial\SegundoParcial\bin\Debug\SegundoParcial.pdb
+D:\Examen_visual_2do_parcial\Examen\SegundoParcial\SegundoParcial\bin\Debug\SegundoParcial.xml
+D:\Examen_visual_2do_parcial\Examen\SegundoParcial\SegundoParcial\obj\Debug\SegundoParcial.vbprojResolveAssemblyReference.cache
+D:\Examen_visual_2do_parcial\Examen\SegundoParcial\SegundoParcial\obj\Debug\SegundoParcial.frmAutos.resources
+D:\Examen_visual_2do_parcial\Examen\SegundoParcial\SegundoParcial\obj\Debug\SegundoParcial.frmVentanaPrincipal.resources
+D:\Examen_visual_2do_parcial\Examen\SegundoParcial\SegundoParcial\obj\Debug\SegundoParcial.Resources.resources
+D:\Examen_visual_2do_parcial\Examen\SegundoParcial\SegundoParcial\obj\Debug\SegundoParcial.vbproj.GenerateResource.Cache
+D:\Examen_visual_2do_parcial\Examen\SegundoParcial\SegundoParcial\obj\Debug\SegundoParcial.exe
+D:\Examen_visual_2do_parcial\Examen\SegundoParcial\SegundoParcial\obj\Debug\SegundoParcial.xml
+D:\Examen_visual_2do_parcial\Examen\SegundoParcial\SegundoParcial\obj\Debug\SegundoParcial.pdb
+C:\Users\juliosanchez\Documents\Visual Studio 2015\Projects\SegundoParcial\SegundoParcial\bin\Debug\SegundoParcial.exe.config
+C:\Users\juliosanchez\Documents\Visual Studio 2015\Projects\SegundoParcial\SegundoParcial\obj\Debug\SegundoParcial.exe
+C:\Users\juliosanchez\Documents\Visual Studio 2015\Projects\SegundoParcial\SegundoParcial\obj\Debug\SegundoParcial.xml
+C:\Users\juliosanchez\Documents\Visual Studio 2015\Projects\SegundoParcial\SegundoParcial\obj\Debug\SegundoParcial.pdb
+C:\Users\juliosanchez\Documents\Visual Studio 2015\Projects\SegundoParcial\SegundoParcial\bin\Debug\SegundoParcial.exe
+C:\Users\juliosanchez\Documents\Visual Studio 2015\Projects\SegundoParcial\SegundoParcial\bin\Debug\SegundoParcial.pdb
+C:\Users\juliosanchez\Documents\Visual Studio 2015\Projects\SegundoParcial\SegundoParcial\bin\Debug\SegundoParcial.xml
+C:\Users\juliosanchez\Documents\Visual Studio 2015\Projects\SegundoParcial\SegundoParcial\obj\Debug\SegundoParcial.vbprojResolveAssemblyReference.cache
+C:\Users\juliosanchez\Documents\Visual Studio 2015\Projects\SegundoParcial\SegundoParcial\obj\Debug\SegundoParcial.frmAutos.resources
+C:\Users\juliosanchez\Documents\Visual Studio 2015\Projects\SegundoParcial\SegundoParcial\obj\Debug\SegundoParcial.frmVentanaPrincipal.resources
+C:\Users\juliosanchez\Documents\Visual Studio 2015\Projects\SegundoParcial\SegundoParcial\obj\Debug\SegundoParcial.Resources.resources
+C:\Users\juliosanchez\Documents\Visual Studio 2015\Projects\SegundoParcial\SegundoParcial\obj\Debug\SegundoParcial.vbproj.GenerateResource.Cache
