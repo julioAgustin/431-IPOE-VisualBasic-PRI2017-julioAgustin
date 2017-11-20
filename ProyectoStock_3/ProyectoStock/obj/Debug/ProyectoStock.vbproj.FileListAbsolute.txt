@@ -1,0 +1,87 @@
+D:\ProyectoStock\ProyectoStock\ProyectoStock\bin\Debug\ProyectoStock.exe.config
+D:\ProyectoStock\ProyectoStock\ProyectoStock\obj\Debug\ProyectoStock.vbprojResolveAssemblyReference.cache
+D:\ProyectoStock\ProyectoStock\ProyectoStock\obj\Debug\ProyectoStock.frmArticulo.resources
+D:\ProyectoStock\ProyectoStock\ProyectoStock\obj\Debug\ProyectoStock.Resources.resources
+D:\ProyectoStock\ProyectoStock\ProyectoStock\obj\Debug\ProyectoStock.vbproj.GenerateResource.Cache
+D:\ProyectoStock\ProyectoStock\ProyectoStock\obj\Debug\ProyectoStock.xml
+D:\ProyectoStock\ProyectoStock\ProyectoStock\bin\Debug\ProyectoStock.exe
+D:\ProyectoStock\ProyectoStock\ProyectoStock\bin\Debug\ProyectoStock.pdb
+D:\ProyectoStock\ProyectoStock\ProyectoStock\bin\Debug\ProyectoStock.xml
+D:\ProyectoStock\ProyectoStock\ProyectoStock\obj\Debug\ProyectoStock.exe
+D:\ProyectoStock\ProyectoStock\ProyectoStock\obj\Debug\ProyectoStock.pdb
+C:\Users\Mario\Documents\U.A.A\DOCENCIA UNIVERSITARIA\2017\Primavera\Curso 317\Clase 09\ProyectoStock\ProyectoStock\ProyectoStock\bin\Debug\ProyectoStock.exe.config
+C:\Users\Mario\Documents\U.A.A\DOCENCIA UNIVERSITARIA\2017\Primavera\Curso 317\Clase 09\ProyectoStock\ProyectoStock\ProyectoStock\obj\Debug\ProyectoStock.exe
+C:\Users\Mario\Documents\U.A.A\DOCENCIA UNIVERSITARIA\2017\Primavera\Curso 317\Clase 09\ProyectoStock\ProyectoStock\ProyectoStock\obj\Debug\ProyectoStock.xml
+C:\Users\Mario\Documents\U.A.A\DOCENCIA UNIVERSITARIA\2017\Primavera\Curso 317\Clase 09\ProyectoStock\ProyectoStock\ProyectoStock\obj\Debug\ProyectoStock.pdb
+C:\Users\Mario\Documents\U.A.A\DOCENCIA UNIVERSITARIA\2017\Primavera\Curso 317\Clase 09\ProyectoStock\ProyectoStock\ProyectoStock\bin\Debug\ProyectoStock.exe
+C:\Users\Mario\Documents\U.A.A\DOCENCIA UNIVERSITARIA\2017\Primavera\Curso 317\Clase 09\ProyectoStock\ProyectoStock\ProyectoStock\bin\Debug\ProyectoStock.pdb
+C:\Users\Mario\Documents\U.A.A\DOCENCIA UNIVERSITARIA\2017\Primavera\Curso 317\Clase 09\ProyectoStock\ProyectoStock\ProyectoStock\bin\Debug\ProyectoStock.xml
+C:\Users\Mario\Documents\U.A.A\DOCENCIA UNIVERSITARIA\2017\Primavera\Curso 317\Clase 09\ProyectoStock\ProyectoStock\ProyectoStock\obj\Debug\ProyectoStock.vbprojResolveAssemblyReference.cache
+C:\Users\Mario\Documents\U.A.A\DOCENCIA UNIVERSITARIA\2017\Primavera\Curso 317\Clase 09\ProyectoStock\ProyectoStock\ProyectoStock\obj\Debug\ProyectoStock.frmArticulo.resources
+C:\Users\Mario\Documents\U.A.A\DOCENCIA UNIVERSITARIA\2017\Primavera\Curso 317\Clase 09\ProyectoStock\ProyectoStock\ProyectoStock\obj\Debug\ProyectoStock.Resources.resources
+C:\Users\Mario\Documents\U.A.A\DOCENCIA UNIVERSITARIA\2017\Primavera\Curso 317\Clase 09\ProyectoStock\ProyectoStock\ProyectoStock\obj\Debug\ProyectoStock.vbproj.GenerateResource.Cache
+C:\Users\Mario\Documents\U.A.A\DOCENCIA UNIVERSITARIA\2017\Primavera\Curso 317\Clase 10\ProyectoStock\ProyectoStock\ProyectoStock\bin\Debug\ProyectoStock.exe.config
+C:\Users\Mario\Documents\U.A.A\DOCENCIA UNIVERSITARIA\2017\Primavera\Curso 317\Clase 10\ProyectoStock\ProyectoStock\ProyectoStock\obj\Debug\ProyectoStock.exe
+C:\Users\Mario\Documents\U.A.A\DOCENCIA UNIVERSITARIA\2017\Primavera\Curso 317\Clase 10\ProyectoStock\ProyectoStock\ProyectoStock\obj\Debug\ProyectoStock.xml
+C:\Users\Mario\Documents\U.A.A\DOCENCIA UNIVERSITARIA\2017\Primavera\Curso 317\Clase 10\ProyectoStock\ProyectoStock\ProyectoStock\obj\Debug\ProyectoStock.pdb
+C:\Users\Mario\Documents\U.A.A\DOCENCIA UNIVERSITARIA\2017\Primavera\Curso 317\Clase 10\ProyectoStock\ProyectoStock\ProyectoStock\obj\Debug\ProyectoStock.frmArticulo.resources
+C:\Users\Mario\Documents\U.A.A\DOCENCIA UNIVERSITARIA\2017\Primavera\Curso 317\Clase 10\ProyectoStock\ProyectoStock\ProyectoStock\obj\Debug\ProyectoStock.Resources.resources
+C:\Users\Mario\Documents\U.A.A\DOCENCIA UNIVERSITARIA\2017\Primavera\Curso 317\Clase 10\ProyectoStock\ProyectoStock\ProyectoStock\obj\Debug\ProyectoStock.vbproj.GenerateResource.Cache
+C:\Users\Mario\Documents\U.A.A\DOCENCIA UNIVERSITARIA\2017\Primavera\Curso 317\Clase 10\ProyectoStock\ProyectoStock\ProyectoStock\bin\Debug\ProyectoStock.exe
+C:\Users\Mario\Documents\U.A.A\DOCENCIA UNIVERSITARIA\2017\Primavera\Curso 317\Clase 10\ProyectoStock\ProyectoStock\ProyectoStock\bin\Debug\ProyectoStock.pdb
+C:\Users\Mario\Documents\U.A.A\DOCENCIA UNIVERSITARIA\2017\Primavera\Curso 317\Clase 10\ProyectoStock\ProyectoStock\ProyectoStock\bin\Debug\ProyectoStock.xml
+C:\Users\Mario\Documents\U.A.A\DOCENCIA UNIVERSITARIA\2017\Primavera\Curso 317\Clase 10\ProyectoStock\ProyectoStock\ProyectoStock\obj\Debug\ProyectoStock.frmMenuPrincipal.resources
+C:\Users\Mario\Documents\U.A.A\DOCENCIA UNIVERSITARIA\2017\Primavera\Curso 317\Clase 12\Módulo\ProyectoStock\ProyectoStock\bin\Debug\ProyectoStock.exe.config
+C:\Users\Mario\Documents\U.A.A\DOCENCIA UNIVERSITARIA\2017\Primavera\Curso 317\Clase 12\Módulo\ProyectoStock\ProyectoStock\obj\Debug\ProyectoStock.exe
+C:\Users\Mario\Documents\U.A.A\DOCENCIA UNIVERSITARIA\2017\Primavera\Curso 317\Clase 12\Módulo\ProyectoStock\ProyectoStock\obj\Debug\ProyectoStock.xml
+C:\Users\Mario\Documents\U.A.A\DOCENCIA UNIVERSITARIA\2017\Primavera\Curso 317\Clase 12\Módulo\ProyectoStock\ProyectoStock\obj\Debug\ProyectoStock.pdb
+C:\Users\Mario\Documents\U.A.A\DOCENCIA UNIVERSITARIA\2017\Primavera\Curso 317\Clase 12\Módulo\ProyectoStock\ProyectoStock\obj\Debug\ProyectoStock.frmArticulo.resources
+C:\Users\Mario\Documents\U.A.A\DOCENCIA UNIVERSITARIA\2017\Primavera\Curso 317\Clase 12\Módulo\ProyectoStock\ProyectoStock\obj\Debug\ProyectoStock.frmMenuPrincipal.resources
+C:\Users\Mario\Documents\U.A.A\DOCENCIA UNIVERSITARIA\2017\Primavera\Curso 317\Clase 12\Módulo\ProyectoStock\ProyectoStock\obj\Debug\ProyectoStock.Resources.resources
+C:\Users\Mario\Documents\U.A.A\DOCENCIA UNIVERSITARIA\2017\Primavera\Curso 317\Clase 12\Módulo\ProyectoStock\ProyectoStock\obj\Debug\ProyectoStock.vbproj.GenerateResource.Cache
+C:\Users\Mario\Documents\U.A.A\DOCENCIA UNIVERSITARIA\2017\Primavera\Curso 317\Clase 12\Módulo\ProyectoStock\ProyectoStock\bin\Debug\ProyectoStock.exe
+C:\Users\Mario\Documents\U.A.A\DOCENCIA UNIVERSITARIA\2017\Primavera\Curso 317\Clase 12\Módulo\ProyectoStock\ProyectoStock\bin\Debug\ProyectoStock.pdb
+C:\Users\Mario\Documents\U.A.A\DOCENCIA UNIVERSITARIA\2017\Primavera\Curso 317\Clase 12\Módulo\ProyectoStock\ProyectoStock\bin\Debug\ProyectoStock.xml
+C:\Users\Mario\Documents\U.A.A\DOCENCIA UNIVERSITARIA\2017\Primavera\Curso 317\Clase 12\Módulo\ProyectoStock\ProyectoStock\obj\Debug\ProyectoStock.vbprojResolveAssemblyReference.cache
+D:\Clase 14\ProyectoStock\ProyectoStock\bin\Debug\ProyectoStock.exe.config
+D:\Clase 14\ProyectoStock\ProyectoStock\obj\Debug\ProyectoStock.exe
+D:\Clase 14\ProyectoStock\ProyectoStock\obj\Debug\ProyectoStock.xml
+D:\Clase 14\ProyectoStock\ProyectoStock\obj\Debug\ProyectoStock.pdb
+D:\Clase 14\ProyectoStock\ProyectoStock\bin\Debug\ProyectoStock.exe
+D:\Clase 14\ProyectoStock\ProyectoStock\bin\Debug\ProyectoStock.pdb
+D:\Clase 14\ProyectoStock\ProyectoStock\bin\Debug\ProyectoStock.xml
+D:\Clase 14\ProyectoStock\ProyectoStock\obj\Debug\ProyectoStock.vbprojResolveAssemblyReference.cache
+D:\Clase 14\ProyectoStock\ProyectoStock\obj\Debug\ProyectoStock.frmArticulo.resources
+D:\Clase 14\ProyectoStock\ProyectoStock\obj\Debug\ProyectoStock.frmLogin.resources
+D:\Clase 14\ProyectoStock\ProyectoStock\obj\Debug\ProyectoStock.frmMenuPrincipal.resources
+D:\Clase 14\ProyectoStock\ProyectoStock\obj\Debug\ProyectoStock.Resources.resources
+D:\Clase 14\ProyectoStock\ProyectoStock\obj\Debug\ProyectoStock.vbproj.GenerateResource.Cache
+D:\Clase 14\ProyectoStock\ProyectoStock\obj\Debug\ProyectoStock.frmConfiguracionAcceso.resources
+C:\Users\Mario\Documents\U.A.A\DOCENCIA UNIVERSITARIA\2017\Primavera\Curso 317\Clase 14\Clase 14\ProyectoStock\ProyectoStock\bin\Debug\ProyectoStock.exe.config
+C:\Users\Mario\Documents\U.A.A\DOCENCIA UNIVERSITARIA\2017\Primavera\Curso 317\Clase 14\Clase 14\ProyectoStock\ProyectoStock\obj\Debug\ProyectoStock.exe
+C:\Users\Mario\Documents\U.A.A\DOCENCIA UNIVERSITARIA\2017\Primavera\Curso 317\Clase 14\Clase 14\ProyectoStock\ProyectoStock\obj\Debug\ProyectoStock.xml
+C:\Users\Mario\Documents\U.A.A\DOCENCIA UNIVERSITARIA\2017\Primavera\Curso 317\Clase 14\Clase 14\ProyectoStock\ProyectoStock\obj\Debug\ProyectoStock.pdb
+C:\Users\Mario\Documents\U.A.A\DOCENCIA UNIVERSITARIA\2017\Primavera\Curso 317\Clase 14\Clase 14\ProyectoStock\ProyectoStock\bin\Debug\ProyectoStock.exe
+C:\Users\Mario\Documents\U.A.A\DOCENCIA UNIVERSITARIA\2017\Primavera\Curso 317\Clase 14\Clase 14\ProyectoStock\ProyectoStock\bin\Debug\ProyectoStock.pdb
+C:\Users\Mario\Documents\U.A.A\DOCENCIA UNIVERSITARIA\2017\Primavera\Curso 317\Clase 14\Clase 14\ProyectoStock\ProyectoStock\bin\Debug\ProyectoStock.xml
+C:\Users\Mario\Documents\U.A.A\DOCENCIA UNIVERSITARIA\2017\Primavera\Curso 317\Clase 14\Clase 14\ProyectoStock\ProyectoStock\obj\Debug\ProyectoStock.vbprojResolveAssemblyReference.cache
+C:\Users\Mario\Documents\U.A.A\DOCENCIA UNIVERSITARIA\2017\Primavera\Curso 317\Clase 14\Clase 14\ProyectoStock\ProyectoStock\obj\Debug\ProyectoStock.frmArticulo.resources
+C:\Users\Mario\Documents\U.A.A\DOCENCIA UNIVERSITARIA\2017\Primavera\Curso 317\Clase 14\Clase 14\ProyectoStock\ProyectoStock\obj\Debug\ProyectoStock.frmConfiguracionAcceso.resources
+C:\Users\Mario\Documents\U.A.A\DOCENCIA UNIVERSITARIA\2017\Primavera\Curso 317\Clase 14\Clase 14\ProyectoStock\ProyectoStock\obj\Debug\ProyectoStock.frmLogin.resources
+C:\Users\Mario\Documents\U.A.A\DOCENCIA UNIVERSITARIA\2017\Primavera\Curso 317\Clase 14\Clase 14\ProyectoStock\ProyectoStock\obj\Debug\ProyectoStock.frmMenuPrincipal.resources
+C:\Users\Mario\Documents\U.A.A\DOCENCIA UNIVERSITARIA\2017\Primavera\Curso 317\Clase 14\Clase 14\ProyectoStock\ProyectoStock\obj\Debug\ProyectoStock.Resources.resources
+C:\Users\Mario\Documents\U.A.A\DOCENCIA UNIVERSITARIA\2017\Primavera\Curso 317\Clase 14\Clase 14\ProyectoStock\ProyectoStock\obj\Debug\ProyectoStock.vbproj.GenerateResource.Cache
+C:\Users\juliosanchez\Documents\Visual Studio 2015\Projects\ProyectoStock_3\ProyectoStock\bin\Debug\ProyectoStock.exe.config
+C:\Users\juliosanchez\Documents\Visual Studio 2015\Projects\ProyectoStock_3\ProyectoStock\obj\Debug\ProyectoStock.exe
+C:\Users\juliosanchez\Documents\Visual Studio 2015\Projects\ProyectoStock_3\ProyectoStock\obj\Debug\ProyectoStock.xml
+C:\Users\juliosanchez\Documents\Visual Studio 2015\Projects\ProyectoStock_3\ProyectoStock\obj\Debug\ProyectoStock.pdb
+C:\Users\juliosanchez\Documents\Visual Studio 2015\Projects\ProyectoStock_3\ProyectoStock\bin\Debug\ProyectoStock.exe
+C:\Users\juliosanchez\Documents\Visual Studio 2015\Projects\ProyectoStock_3\ProyectoStock\bin\Debug\ProyectoStock.pdb
+C:\Users\juliosanchez\Documents\Visual Studio 2015\Projects\ProyectoStock_3\ProyectoStock\bin\Debug\ProyectoStock.xml
+C:\Users\juliosanchez\Documents\Visual Studio 2015\Projects\ProyectoStock_3\ProyectoStock\obj\Debug\ProyectoStock.vbprojResolveAssemblyReference.cache
+C:\Users\juliosanchez\Documents\Visual Studio 2015\Projects\ProyectoStock_3\ProyectoStock\obj\Debug\ProyectoStock.frmArticulo.resources
+C:\Users\juliosanchez\Documents\Visual Studio 2015\Projects\ProyectoStock_3\ProyectoStock\obj\Debug\ProyectoStock.frmConfiguracionAcceso.resources
+C:\Users\juliosanchez\Documents\Visual Studio 2015\Projects\ProyectoStock_3\ProyectoStock\obj\Debug\ProyectoStock.frmLogin.resources
+C:\Users\juliosanchez\Documents\Visual Studio 2015\Projects\ProyectoStock_3\ProyectoStock\obj\Debug\ProyectoStock.frmMenuPrincipal.resources
+C:\Users\juliosanchez\Documents\Visual Studio 2015\Projects\ProyectoStock_3\ProyectoStock\obj\Debug\ProyectoStock.Resources.resources
+C:\Users\juliosanchez\Documents\Visual Studio 2015\Projects\ProyectoStock_3\ProyectoStock\obj\Debug\ProyectoStock.vbproj.GenerateResource.Cache
